@@ -1,0 +1,14 @@
+﻿[
+  {
+    "outputFile": "css/dataBridge/dataBridge.css",
+    "inputFile": "css/dataBridge/dataBridge.scss"
+  },
+  {
+    "outputFile": "css/vendor/vendor.css",
+    "inputFile": "css/vendor/vendor.scss"
+  },
+  {
+    "outputFile": "gulpfile.es5.js",
+    "inputFile": "gulpfile.js"
+  }
+]

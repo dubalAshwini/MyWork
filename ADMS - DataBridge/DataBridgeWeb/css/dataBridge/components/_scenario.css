@@ -1,0 +1,15 @@
+﻿/*  CSS for input="number" to remove arrow from input box  */
+.sceraioWrapper input[type=number]::-webkit-inner-spin-button, 
+.sceraioWrapper input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
+.scenarioWrapper .newScenarioDiv textarea{resize:none;}
+.scenarioWrapper .newScenarioDiv #newScenarioTbl{margin-top:20px;}
+@media only screen and (min-width: 767px) and (max-width: 913px) {
+    #tblScenarioRuns .btnView{
+        margin-bottom:5px;
+    }
+}
